@@ -1,0 +1,14 @@
+baseURL : 'https://mistial.dev/'
+languageCode : 'en-us'
+title : "Mistial's Musings"
+theme : "ananke"
+publishdir : "../public"
+
+params:
+  ananke_socials:
+    - name: twitter
+      url: https://twitter.com/MistialD
+    - name: github
+      url: https://github.com/mistial-dev/
+    - name: mastodon
+      url: https://defcon.social/@mistial

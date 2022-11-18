@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mistial&#39;s Musings</title>
+    <link>https://mistial.dev/</link>
+    <description>Recent content on Mistial&#39;s Musings</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 18 Nov 2022 14:44:15 -0500</lastBuildDate><atom:link href="https://mistial.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>https://mistial.dev/posts/hello-world/</link>
+      <pubDate>Fri, 18 Nov 2022 14:44:15 -0500</pubDate>
+      
+      <guid>https://mistial.dev/posts/hello-world/</guid>
+      <description>Every site starts with something, and this is where mine starts.
+Hi, I&amp;rsquo;m Mistial. This is my site.</description>
+    </item>
+    
+  </channel>
+</rss>
