@@ -2,7 +2,7 @@ baseURL : 'https://mistial.dev/'
 languageCode : 'en-us'
 title : "Mistial's Musings"
 theme : "ananke"
-publishdir : "../public"
+publishdir : "../docs"
 
 params:
   ananke_socials:
