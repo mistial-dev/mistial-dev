@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @mistial-dev
 - 👀 I’m an access control engineer
 - 📫 How to reach me by email.  I'm the admin for the domain mistial.dev.
+- You can email me with [PGP](https://mistial.dev/admin_mistial_dev.asc).
